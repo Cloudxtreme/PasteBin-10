@@ -1,0 +1,25 @@
+{
+  "name": "pastebin",
+  "version": "0.0.1",
+  "description": "A Pastebin clone, probably.",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yahvuh/PasteBin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yahvuh/PasteBin/issues"
+  },
+  "homepage": "https://github.com/Yahvuh/PasteBin#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-sass": "^2.1.0"
+  }
+}
